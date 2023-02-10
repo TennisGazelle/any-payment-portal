@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/any-payment-portal/static/css/main.073c9b0a.css",
+    "main.js": "/any-payment-portal/static/js/main.143984c6.js",
+    "static/js/787.af427930.chunk.js": "/any-payment-portal/static/js/787.af427930.chunk.js",
+    "index.html": "/any-payment-portal/index.html",
+    "main.073c9b0a.css.map": "/any-payment-portal/static/css/main.073c9b0a.css.map",
+    "main.143984c6.js.map": "/any-payment-portal/static/js/main.143984c6.js.map",
+    "787.af427930.chunk.js.map": "/any-payment-portal/static/js/787.af427930.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.143984c6.js"
+  ]
+}
